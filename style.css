@@ -39,3 +39,19 @@ img{
     height: 100%;
     width: 100%;
 }
+.botao {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+
+  background: linear-gradient(45deg, #bcd325, #beb91e);
+  color: white;
+  padding: 12px 18px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+  transition: all 0.3s ease;
+
+}
