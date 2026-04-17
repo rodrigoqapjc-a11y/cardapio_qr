@@ -1,0 +1,37 @@
+body{
+    background-color: blueviolet;
+
+  background-image: url("img/90e4824224b82a769281ae3502e92e6c.jpg");
+  background-size: cover;       /* cobre toda a tela */
+  background-position: center;  /* centraliza a imagem */
+  background-repeat: no-repeat; /* não repete */
+  height: 100vh;
+}
+    
+
+div {
+    
+  width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.6); /* fundo escuro transparente */
+  color: white; /* texto branco */
+  border-radius: 10px;
+
+  width: 300px;
+  margin: 0 auto;   /* centraliza a caixa */
+  text-align: center; /* mantém o conteúdo organizado */
+}
+
+h2{
+    text-align: center;
+}
+
+li{
+    font-size: 20px;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+}
